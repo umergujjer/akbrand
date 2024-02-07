@@ -1,0 +1,517 @@
+<!DOCTYPE html>
+<html lang="en-US" data-website-id="1" data-main-object="website.page(4,)" data-add2cart-redirect="1">
+    <head>
+        <meta charset="utf-8"/>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <meta name="generator" content="Odoo"/>
+            
+        <meta property="og:type" content="website"/>
+        <meta property="og:title" content="Home | akbrand"/>
+        <meta property="og:site_name" content="akbrand"/>
+        <meta property="og:url" content="https://akbrand2.odoo.com/"/>
+        <meta property="og:image" content="https://akbrand2.odoo.com/web/image/website/1/logo?unique=6bf297b"/>
+            
+        <meta name="twitter:card" content="summary_large_image"/>
+        <meta name="twitter:title" content="Home | akbrand"/>
+        <meta name="twitter:image" content="https://akbrand2.odoo.com/web/image/website/1/logo/300x300?unique=6bf297b"/>
+        
+        <link rel="canonical" href="https://akbrand2.odoo.com/"/>
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin=""/>
+        <title> Home | akbrand </title>
+        <link type="image/x-icon" rel="shortcut icon" href="/web/image/website/1/favicon?unique=6bf297b"/>
+        <link rel="preload" href="/web/static/src/libs/fontawesome/fonts/fontawesome-webfont.woff2?v=4.7.0" as="font" crossorigin=""/>
+        <link type="text/css" rel="stylesheet" href="/web/assets/1/d636da4/web.assets_frontend.min.css"/>
+        <script id="web.layout.odooscript" type="text/javascript">
+            var odoo = {
+                csrf_token: "dfee6e9b13f5924570850caf19cf69876c81420fo1738822027",
+                debug: "",
+            };
+        </script>
+        <script type="text/javascript">
+            odoo.__session_info__ = {"is_admin": false, "is_system": false, "is_website_user": true, "user_id": false, "is_frontend": true, "profile_session": null, "profile_collectors": null, "profile_params": null, "show_effect": true, "currencies": {"159": {"symbol": "Rs.", "position": "after", "digits": [69, 2]}}, "bundle_params": {"lang": "en_US", "website_id": 1}, "translationURL": "/website/translations", "cache_hashes": {"translations": "34d52ce92f3abef9977055ecd0c37902acfb7562"}, "geoip_country_code": "PK", "geoip_phone_code": 92, "lang_url_code": "en"};
+            if (!/(^|;\s)tz=/.test(document.cookie)) {
+                const userTZ = Intl.DateTimeFormat().resolvedOptions().timeZone;
+                document.cookie = `tz=${userTZ}; path=/`;
+            }
+        </script>
+        <script type="text/javascript" defer="defer" src="/web/assets/1/9bb4e43/web.assets_frontend_minimal.min.js" onerror="__odooAssetError=1"></script>
+        <script type="text/javascript" defer="defer" data-src="/web/assets/1/620a815/web.assets_frontend_lazy.min.js" onerror="__odooAssetError=1"></script>
+        
+                    <script>
+            
+                if (!window.odoo) {
+                    window.odoo = {
+                        csrf_token: "dfee6e9b13f5924570850caf19cf69876c81420fo1738822027",
+                    };
+                }
+                odoo.__session_info__ = Object.assign(odoo.__session_info__ || {}, {
+                    livechatData: {
+                        isAvailable: false,
+                        serverUrl: "https://akbrand2.odoo.com",
+                        options: {},
+                    },
+                });
+            
+                    </script>
+        
+    </head>
+    <body>
+
+
+
+        <div id="wrapwrap" class="homepage   ">
+                <header id="top" data-anchor="true" data-name="Header" class="   o_header_standard o_no_autohide_menu" style=" ">
+                    
+    <nav data-name="Navbar" aria-label="Main" class="navbar navbar-expand-lg navbar-light o_colored_level o_cc d-none d-lg-block shadow-sm ">
+        
+
+            <div id="o_main_nav" class="container">
+                
+    <span id="o_fake_navbar_brand"></span>
+                
+    <ul id="top_menu" role="menu" class="nav navbar-nav o_menu_loading me-auto">
+        
+
+                    
+    <li role="presentation" class="nav-item">
+        <a role="menuitem" href="/" class="nav-link active">
+            <span>Home</span>
+        </a>
+    </li>
+    <li role="presentation" class="nav-item">
+        <a role="menuitem" href="/shop" class="nav-link ">
+            <span>Shop</span>
+        </a>
+    </li>
+    <li role="presentation" class="nav-item">
+        <a role="menuitem" href="/contactus-03446157016" class="nav-link ">
+            <span>Services</span>
+        </a>
+    </li>
+    <li role="presentation" class="nav-item">
+        <a role="menuitem" href="/shop" class="nav-link ">
+            <span>clothes</span>
+        </a>
+    </li>
+                
+    </ul>
+                
+                <ul class="navbar-nav align-items-center gap-2 flex-shrink-0 justify-content-end ps-3">
+                    
+        
+            <li class=" divider d-none"></li> 
+            <li class="o_wsale_my_cart  ">
+                <a href="/shop/cart" class="o_navlink_background btn position-relative rounded-circle p-1 text-center text-reset">
+                    <div class="">
+                        <i class="fa fa-shopping-cart fa-stack"></i>
+                        <sup class="my_cart_quantity badge text-bg-primary position-absolute top-0 end-0 mt-n1 me-n1 rounded-pill d-none" data-order-id="">0</sup>
+                    </div>
+                </a>
+            </li>
+        
+                    
+                    
+        <li class="">
+            <div class="o_header_social_links ">
+                <div class="s_social_media o_not_editable oe_unmovable oe_unremovable" data-snippet="s_social_media" data-name="Social Media">
+                    <h5 class="s_social_media_title d-none">Follow us</h5>
+                    <a href="/website/social/facebook" class="s_social_media_facebook o_nav-link_secondary nav-link m-0 p-0 text-decoration-none" target="_blank">
+                        <i class="fa fa-facebook fa-stack p-1 o_editable_media"></i>
+                    </a>
+                    <a href="/website/social/twitter" class="s_social_media_twitter o_nav-link_secondary nav-link m-0 p-0 text-decoration-none" target="_blank">
+                        <i class="fa fa-twitter fa-stack p-1 o_editable_media"></i>
+                    </a>
+                    <a href="/website/social/linkedin" class="s_social_media_linkedin o_nav-link_secondary nav-link m-0 p-0 text-decoration-none" target="_blank">
+                        <i class="fa fa-linkedin fa-stack p-1 o_editable_media"></i>
+                    </a>
+                    <a href="/website/social/instagram" class="s_social_media_instagram o_nav-link_secondary nav-link m-0 p-0 text-decoration-none" target="_blank">
+                        <i class="fa fa-instagram fa-stack p-1 o_editable_media"></i>
+                    </a>
+                </div>
+            </div>
+        </li>
+                    
+        <li data-name="Language Selector" class="o_header_language_selector ">
+        
+        
+        </li>
+                    
+            <li class=" o_no_autohide_item">
+                <a href="/web/login" class="btn btn-outline-secondary">Sign in</a>
+            </li>
+                    
+        
+        
+                    
+                </ul>
+            </div>
+        
+    </nav>
+    <nav data-name="Navbar" aria-label="Mobile" class="navbar  navbar-light o_colored_level o_cc o_header_mobile d-block d-lg-none shadow-sm ">
+        
+
+        <div id="o_main_nav" class="container flex-wrap justify-content-between">
+            
+    <span id="o_fake_navbar_brand"></span>
+            <ul class="o_header_mobile_buttons_wrap navbar-nav flex-row align-items-center gap-2 mb-0">
+        
+            <li class=" divider d-none"></li> 
+            <li class="o_wsale_my_cart  ">
+                <a href="/shop/cart" class="o_navlink_background_hover btn position-relative rounded-circle border-0 p-1 text-reset">
+                    <div class="">
+                        <i class="fa fa-shopping-cart fa-stack"></i>
+                        <sup class="my_cart_quantity badge text-bg-primary position-absolute top-0 end-0 mt-n1 me-n1 rounded-pill d-none" data-order-id="">0</sup>
+                    </div>
+                </a>
+            </li>
+        
+                <li>
+                    <button class="nav-link btn me-auto p-2 o_not_editable" type="button" data-bs-toggle="offcanvas" data-bs-target="#top_menu_collapse_mobile" aria-controls="top_menu_collapse_mobile" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                </li>
+            </ul>
+            <div id="top_menu_collapse_mobile" class="offcanvas offcanvas-end o_navbar_mobile">
+                <div class="offcanvas-header justify-content-end o_not_editable">
+                    <button type="button" class="nav-link btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+                </div>
+                <div class="offcanvas-body d-flex flex-column justify-content-between h-100 w-100">
+                    <ul class="navbar-nav">
+                        
+                        
+    <ul id="top_menu" role="menu" class="nav navbar-nav  ">
+        
+
+                            
+    <li role="presentation" class="nav-item">
+        <a role="menuitem" href="/" class="nav-link active">
+            <span>Home</span>
+        </a>
+    </li>
+    <li role="presentation" class="nav-item">
+        <a role="menuitem" href="/shop" class="nav-link ">
+            <span>Shop</span>
+        </a>
+    </li>
+    <li role="presentation" class="nav-item">
+        <a role="menuitem" href="/contactus-03446157016" class="nav-link ">
+            <span>Services</span>
+        </a>
+    </li>
+    <li role="presentation" class="nav-item">
+        <a role="menuitem" href="/shop" class="nav-link ">
+            <span>clothes</span>
+        </a>
+    </li>
+                        
+    </ul>
+                        
+                        
+        <li class="">
+            <div class="o_header_social_links mt-2 border-top pt-2 o_border_contrast">
+                <div class="s_social_media o_not_editable oe_unmovable oe_unremovable" data-snippet="s_social_media" data-name="Social Media">
+                    <h5 class="s_social_media_title d-none">Follow us</h5>
+                    <a href="/website/social/facebook" class="s_social_media_facebook o_nav-link_secondary nav-link m-0 p-0 text-decoration-none" target="_blank">
+                        <i class="fa fa-facebook fa-stack p-1 o_editable_media"></i>
+                    </a>
+                    <a href="/website/social/twitter" class="s_social_media_twitter o_nav-link_secondary nav-link m-0 p-0 text-decoration-none" target="_blank">
+                        <i class="fa fa-twitter fa-stack p-1 o_editable_media"></i>
+                    </a>
+                    <a href="/website/social/linkedin" class="s_social_media_linkedin o_nav-link_secondary nav-link m-0 p-0 text-decoration-none" target="_blank">
+                        <i class="fa fa-linkedin fa-stack p-1 o_editable_media"></i>
+                    </a>
+                    <a href="/website/social/instagram" class="s_social_media_instagram o_nav-link_secondary nav-link m-0 p-0 text-decoration-none" target="_blank">
+                        <i class="fa fa-instagram fa-stack p-1 o_editable_media"></i>
+                    </a>
+                </div>
+            </div>
+        </li>
+                    </ul>
+                    <ul class="navbar-nav gap-2 mt-3 w-100">
+                        
+            <li class=" o_no_autohide_item">
+                <a href="/web/login" class="btn btn-outline-secondary w-100">Sign in</a>
+            </li>
+                        
+        
+        
+                        
+        <li data-name="Language Selector" class="o_header_language_selector ">
+        
+        
+        </li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </div>
+    
+    </nav>
+    
+        </header>
+                <main>
+                    
+        <div id="wrap" class="oe_structure"><section class="s_cover bg-black-50 pt96 o_colored_level pb0 o_background_video s_parallax_no_overflow_hidden oe_img_bg o_bg_img_center" data-scroll-background-ratio="0" data-snippet="s_cover" data-name="Cover" data-bg-video-src="https://player.vimeo.com/video/312451183?autoplay=1&amp;muted=1&amp;autopause=0&amp;controls=0&amp;loop=1" style="background-image: url(&#34;/web/image/website.s_cover_default_image&#34;) !important;">
+        
+        <div class="o_we_bg_filter bg-black-50"></div>
+        <div class="container s_allow_columns">
+            <h1 class="display-3 o_default_snippet_text" style="text-align: center; font-weight: bold;">Assalam o Alikum&nbsp; &nbsp;&nbsp;</h1><h1 class="display-3 o_default_snippet_text" style="text-align: center; font-weight: bold;">Welcome to AK clothing BRAND<br/></h1>
+            <p class="lead o_default_snippet_text" style="text-align: center;">Welcome to AK, where style meets sophistication and comfort blends seamlessly with elegance. Born from a passion for fashion and a dedication to quality, AK brings you a curated collection that celebrates individuality and empowers self-expression.</p><p>At AK, we believe that clothing is more than just fabric stitched together; it's a reflection of your personality, your journey, and your aspirations. Each piece in our collection is thoughtfully designed to enhance your everyday experiences, whether you're striding through the city streets or embracing a moment of tranquility.</p><p>From timeless essentials to statement pieces that command attention, AK offers a diverse range of styles to suit every occasion and mood. Our commitment to craftsmanship ensures that every garment is crafted with precision and care, using only the finest materials to ensure durability and comfort.</p><p>But AK is more than just a clothing brand – it's a lifestyle. We embrace diversity, celebrate inclusivity, and champion sustainability in everything we do. With a focus on ethical production practices and eco-friendly materials, we're dedicated to making a positive impact on both your wardrobe and the world around us.</p><p class="lead o_default_snippet_text" style="text-align: center;">Join us on this journey of style, substance, and self-discovery. Explore the AK collection and experience the difference for yourself.<br/></p>
+            <p style="text-align: center;"><br/></p>
+        </div>
+    </section><section class="s_three_columns o_cc o_cc2 pt32 pb32 o_colored_level" data-vcss="001" data-snippet="s_three_columns" data-name="Columns">
+        <div class="container">
+            <div class="row d-flex align-items-stretch">
+                <div class="col-lg-4 s_col_no_bgcolor pt16 pb16">
+                    <div class="card text-bg-white h-100">
+                        <img src="/web/image/761-07c3ec18/download.jpeg" alt="" class="card-img-top img img-fluid o_we_custom_image" loading="lazy"/>
+                        <div class="card-body">
+                            <p><strong>The Ultimate Guide To Leather Jackets</strong></p><h3 class="card-title o_default_snippet_text"><br/></h3><p class="card-title o_default_snippet_text"><br/></p>
+                            <p class="card-text o_default_snippet_text">In the fickle world of fashion, what’s in favour one month might be cast aside the next. But every so often, you come across a garment that has a natural immunity to seasonal shifts in taste. The&nbsp;<a>leather jacket</a>&nbsp;is one such item&nbsp;– it’s a style that’s managed to outride the stately march of trends for the best part of a century.<br/></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 s_col_no_bgcolor pt16 pb16">
+                    <div class="card text-bg-white h-100">
+                        <img src="/web/image/764-74fc9522/%5B.webp" alt="" class="card-img-top img img-fluid o_we_custom_image" loading="lazy"/>
+                        <div class="card-body">
+                            <p><strong>JUPITER FOR CAST ATHLEISURE TRACK SUIT /&nbsp;TWIN&nbsp;SET</strong></p><h1><br/></h1><p class="card-text o_default_snippet_text">Jupiter brought Everything you need in a track suit light and warm. Suitable for active wear , running , gym wear and casual wear.Fitted: Next-to-skin without the squeeze thermo-conductive inner brushed..<br/></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 s_col_no_bgcolor pt16 pb16">
+                    <div class="card text-bg-white h-100">
+                        <img src="/web/image/766-c2ec6332/Untitled-1-91.jpg" alt="" class="card-img-top img img-fluid o_we_custom_image" loading="lazy"/>
+                        <div class="card-body">
+                            <p><strong>Luxury Men’s Business Quartz Watch Top Brand Casual Leather Strap Calendar Watches for Women Men Sports Wrist clock</strong></p>
+                            <p class="card-text o_default_snippet_text">Product details of Luxury Men’s Business Quartz Watch Top Brand Casual Leather Strap Calendar Watches for Women Men Sports Wrist clock<br/>*Watch<br/></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section><section class="s_title pt40 pb40 o_colored_level o_snippet_invisible o_conditional_hidden" data-vcss="001" data-snippet="s_title" data-name="Title" data-visibility="conditional" data-visibility-value-utm-medium="[{&#34;id&#34;:4,&#34;name&#34;:&#34;Email&#34;,&#34;display_name&#34;:&#34;Email&#34;}]" data-visibility-selectors="html:not([data-utm-medium=&#34;Email&#34;]) body:not(.editor_enable) [data-visibility-id=&#34;utm-medium_o_4&#34;]" data-visibility-id="utm-medium_o_4">
+        <div class="s_allow_columns container">
+            <ul class="display-2"><li><h1 class="display-2"><strong><font class="bg-400">AK CLOTHES&nbsp;</font></strong></h1></li></ul>
+        </div>
+    </section><section class="s_image_gallery o_slideshow s_image_gallery_show_indicators s_image_gallery_indicators_rounded pt24 o_colored_level" data-vcss="001" data-columns="3" style="height: 500px; overflow: hidden;" data-snippet="s_image_gallery" data-name="Image Gallery">
+        <div class="container">
+            <div id="slideshow_1707234918657" class="carousel slide" data-bs-ride="carousel" data-bs-interval="0" style="margin: 0 12px;">
+                <div class="carousel-inner" style="padding: 0;">
+                    <div class="carousel-item active" style="">
+                        <img src="/unsplash/12V36G17IbQ/779/watch.jpg?unique=d2c25379" alt="round silver-colored chronograph watch with brown leather strap" class="img img-fluid d-block o_we_custom_image" data-mimetype="image/webp" data-original-id="754" data-original-src="/unsplash/12V36G17IbQ/watch.jpg?unique=2e26c6d1" data-mimetype-before-conversion="image/jpeg" data-resize-width="690" loading="lazy"/>
+                    </div>
+                    <div class="carousel-item" style="">
+                        <img src="/unsplash/4R_WEmhx8og/780/watch.jpg?unique=282429b8" alt="round silver-colored Fossil chronograph watch at 9:22 with brown leather band" class="img img-fluid d-block o_we_custom_image" data-mimetype="image/webp" data-original-id="756" data-original-src="/unsplash/4R_WEmhx8og/watch.jpg?unique=da8fb498" data-mimetype-before-conversion="image/jpeg" data-resize-width="690" loading="lazy"/>
+                    </div>
+                    <div class="carousel-item" style="">
+                        <img src="/unsplash/VRERJ5Mjp4c/790/watch.jpg?unique=b24e3ef6" alt="round silver-colored Tissot chronograph watch" class="img img-fluid d-block o_we_custom_image" data-mimetype="image/webp" data-original-id="757" data-original-src="/unsplash/VRERJ5Mjp4c/watch.jpg?unique=df6360a9" data-mimetype-before-conversion="image/jpeg" data-resize-width="690" loading="lazy"/>
+                    </div>
+                </div>
+                <ul class="carousel-indicators"><li class="o_indicators_left text-center d-none" aria-label="Previous" title="Previous">
+                        <i class="oi oi-chevron-left">​</i>
+                    </li>
+                    
+                    <li data-bs-target="#slideshow_1707234918657" data-bs-slide-to="0" style="background-image: url(&#34;/unsplash/12V36G17IbQ/watch.jpg?unique=2e26c6d1&#34;);" class="active" aria-current="true"></li>
+                    <li data-bs-target="#slideshow_1707234918657" data-bs-slide-to="1" style="background-image: url(&#34;/unsplash/4R_WEmhx8og/watch.jpg?unique=da8fb498&#34;);"></li>
+                    <li data-bs-target="#slideshow_1707234918657" data-bs-slide-to="2" style="background-image: url(&#34;/unsplash/VRERJ5Mjp4c/watch.jpg?unique=df6360a9&#34;);"></li>
+                    
+                <li class="o_indicators_right text-center d-none" aria-label="Next" title="Next">
+                        <i class="oi oi-chevron-right">​</i>
+                    </li></ul>
+                <a class="carousel-control-prev o_we_no_overlay o_not_editable" href="#slideshow_1707234918657" data-bs-slide="prev" aria-label="Previous" title="Previous">
+                    <span class="oi oi-chevron-left fa-2x text-white"></span>
+                    <span class="visually-hidden o_default_snippet_text">Previous</span>
+                </a>
+                <a class="carousel-control-next o_we_no_overlay o_not_editable" href="#slideshow_1707234918657" data-bs-slide="next" aria-label="Next" title="Next">
+                    <span class="oi oi-chevron-right fa-2x text-white"></span>
+                    <span class="visually-hidden o_default_snippet_text">Next</span>
+                </a>
+            </div>
+        </div>
+    </section><section class="s_image_gallery o_slideshow s_image_gallery_show_indicators s_image_gallery_indicators_rounded pt24 o_colored_level" data-vcss="001" data-columns="3" style="height: 500px; overflow: hidden;" data-snippet="s_image_gallery" data-name="Image Gallery">
+        <div class="container">
+            <div id="slideshow_1707238689812" class="carousel slide" data-bs-ride="carousel" data-bs-interval="0" style="margin: 0 12px;">
+                <div class="carousel-inner" style="padding: 0;">
+                    <div class="carousel-item" style="">
+                        <img src="/web/image/785-8ad958ec/%27.webp" alt="" class="img img-fluid d-block o_we_custom_image" data-mimetype="image/webp" data-original-id="767" data-original-src="/web/image/767-5d700c30/%27.webp" data-mimetype-before-conversion="image/webp" data-resize-width="690" loading="lazy"/>
+                    </div>
+                    <div class="carousel-item" style="">
+                        <img src="/web/image/781-099c003d/DSC_2599.webp" alt="" class="img img-fluid d-block o_we_custom_image" data-mimetype="image/webp" data-original-id="769" data-original-src="/web/image/769-c288a0b8/DSC_2599.webp" data-mimetype-before-conversion="image/webp" data-resize-width="690" loading="lazy"/>
+                    </div>
+                    <div class="carousel-item active" style="">
+                        <img src="/web/image/787-d82dad66/DSC_3527.webp" alt="" class="img img-fluid d-block o_we_custom_image" data-mimetype="image/webp" data-original-id="771" data-original-src="/web/image/771-e6db9e6a/DSC_3527.webp" data-mimetype-before-conversion="image/webp" data-resize-width="690" loading="lazy"/>
+                    </div>
+                </div>
+                <ul class="carousel-indicators"><li class="o_indicators_left text-center d-none" aria-label="Previous" title="Previous">
+                        <i class="oi oi-chevron-left">​</i>
+                    </li>
+                    
+                    <li data-bs-target="#slideshow_1707238689812" data-bs-slide-to="0" style="background-image: url(&#34;/web/image/767-5d700c30/%27.webp&#34;);"></li>
+                    <li data-bs-target="#slideshow_1707238689812" data-bs-slide-to="1" style="background-image: url(&#34;/web/image/769-c288a0b8/DSC_2599.webp&#34;);"></li>
+                    <li data-bs-target="#slideshow_1707238689812" data-bs-slide-to="2" style="background-image: url(&#34;/web/image/771-e6db9e6a/DSC_3527.webp&#34;);" class="active" aria-current="true"></li>
+                    
+                <li class="o_indicators_right text-center d-none" aria-label="Next" title="Next">
+                        <i class="oi oi-chevron-right">​</i>
+                    </li></ul>
+                <a class="carousel-control-prev o_we_no_overlay o_not_editable" href="#slideshow_1707238689812" data-bs-slide="prev" aria-label="Previous" title="Previous">
+                    <span class="oi oi-chevron-left fa-2x text-white"></span>
+                    <span class="visually-hidden o_default_snippet_text">Previous</span>
+                </a>
+                <a class="carousel-control-next o_we_no_overlay o_not_editable" href="#slideshow_1707238689812" data-bs-slide="next" aria-label="Next" title="Next">
+                    <span class="oi oi-chevron-right fa-2x text-white"></span>
+                    <span class="visually-hidden o_default_snippet_text">Next</span>
+                </a>
+            </div>
+        </div>
+    </section><section class="s_image_gallery o_slideshow s_image_gallery_show_indicators s_image_gallery_indicators_rounded pt24 o_colored_level" data-vcss="001" data-columns="3" style="height: 500px; overflow: hidden;" data-snippet="s_image_gallery" data-name="Image Gallery">
+        <div class="container">
+            <div id="slideshow_1707238894980" class="carousel slide" data-bs-ride="carousel" data-bs-interval="0" style="margin: 0 12px;">
+                <div class="carousel-inner" style="padding: 0;">
+                    <div class="carousel-item active" style="">
+                        <img src="/web/image/788-f90ce9ab/Men-jacket-long.jpg-blac.webp" alt="" class="img img-fluid d-block o_we_custom_image" data-mimetype="image/webp" data-original-id="773" data-original-src="/web/image/773-9d7b7030/Men-jacket-long.jpg-blac.webp" data-mimetype-before-conversion="image/webp" data-resize-width="600" loading="lazy"/>
+                    </div>
+                    <div class="carousel-item" style="">
+                        <img src="/web/image/789-9e3e075b/Men-jacket-long.webp" alt="" class="img img-fluid d-block o_we_custom_image" data-mimetype="image/webp" data-original-id="775" data-original-src="/web/image/775-42ec7f09/Men-jacket-long.webp" data-mimetype-before-conversion="image/webp" data-resize-width="600" loading="lazy"/>
+                    </div>
+                    <div class="carousel-item" style="">
+                        <img src="/web/image/786-ee622176/%3B.webp" alt="" class="img img-fluid d-block o_we_custom_image" data-mimetype="image/webp" data-original-id="777" data-original-src="/web/image/777-ff997690/%3B.webp" data-mimetype-before-conversion="image/webp" data-resize-width="600" loading="lazy"/>
+                    </div>
+                </div>
+                <ul class="carousel-indicators"><li class="o_indicators_left text-center d-none" aria-label="Previous" title="Previous">
+                        <i class="oi oi-chevron-left">​</i>
+                    </li>
+                    
+                    <li data-bs-target="#slideshow_1707238894980" data-bs-slide-to="0" style="background-image: url(&#34;/web/image/773-9d7b7030/Men-jacket-long.jpg-blac.webp&#34;);" class="active" aria-current="true"></li>
+                    <li data-bs-target="#slideshow_1707238894980" data-bs-slide-to="1" style="background-image: url(&#34;/web/image/775-42ec7f09/Men-jacket-long.webp&#34;);"></li>
+                    <li data-bs-target="#slideshow_1707238894980" data-bs-slide-to="2" style="background-image: url(&#34;/web/image/777-ff997690/%3B.webp&#34;);"></li>
+                    
+                <li class="o_indicators_right text-center d-none" aria-label="Next" title="Next">
+                        <i class="oi oi-chevron-right">​</i>
+                    </li></ul>
+                <a class="carousel-control-prev o_we_no_overlay o_not_editable" href="#slideshow_1707238894980" data-bs-slide="prev" aria-label="Previous" title="Previous">
+                    <span class="oi oi-chevron-left fa-2x text-white"></span>
+                    <span class="visually-hidden o_default_snippet_text">Previous</span>
+                </a>
+                <a class="carousel-control-next o_we_no_overlay o_not_editable" href="#slideshow_1707238894980" data-bs-slide="next" aria-label="Next" title="Next">
+                    <span class="oi oi-chevron-right fa-2x text-white"></span>
+                    <span class="visually-hidden o_default_snippet_text">Next</span>
+                </a>
+            </div>
+        </div>
+    </section><section class="s_text_image pt32 pb32 o_colored_level" data-snippet="s_image_text" data-name="Image - Text">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6 pt16 pb16 o_colored_level">
+                    <img src="/web/image/758-c426991d/men-track-suits.webp" alt="" class="img img-fluid mx-auto o_we_custom_image" loading="lazy"/>
+                </div>
+                <div class="col-lg-6 pt16 pb16 o_colored_level">
+                    <h2>NEXTAGE ESSENTIALS NAVY BLUE WINTER&nbsp;TRACKSUIT</h2><h2 class="o_default_snippet_text">
+
+<br/></h2>
+                    <p class="o_default_snippet_text">
+Introducing the Nextage Essentials Navy Blue Winter Tracksuit - the ultimate combination of style and function for the modern man. This fleece tracksuit is designed to keep you warm and comfortable during the chilly winter months, while also making a fashion statement with its white, red, and blue color block side panel. Crafted from premium quality fabric, this tracksuit is perfect for both casual wear and sportswear, guaranteeing maximum flexibility and comfort for your active lifestyle.<strong><br/></strong>
+
+<br/></p>
+                    <p class="o_default_snippet_text"><br/></p>
+                    <p><br/></p>
+                </div>
+            </div>
+        </div>
+    </section><section class="s_call_to_action o_cc pt128 o_cc4 o_colored_level o_background_video pb128" data-oe-shape-data="{&#34;shape&#34;:&#34;web_editor/Airy/13_001&#34;,&#34;flip&#34;:[]}" data-snippet="s_call_to_action" data-name="Call to Action" data-bg-video-src="https://player.vimeo.com/video/417478345?autoplay=1&amp;muted=1&amp;autopause=0&amp;controls=0&amp;loop=1">
+        <div class="o_we_shape o_web_editor_Airy_13_001 o_footer_extra_shape_mapping"></div>
+        <div class="container">
+            <div class="row">
+                <div class="pb16 col-lg-12 text-center o_colored_level">
+                    <h3>
+        Need more information about a product?</h3><h3>&nbsp;Contact us!&nbsp;[03446157016]</h3></div>
+                <div class="pt8 col-lg-12 o_colored_level">
+                    <p style="text-align: center">
+        <a href="#" class="btn btn-secondary btn-lg me-2 mb-2">Our Services</a>&nbsp;</p>
+                </div>
+            </div>
+        </div>
+    </section></div>
+    
+        <div id="o_shared_blocks" class="oe_unremovable"></div>
+                </main>
+                <footer id="bottom" data-anchor="true" data-name="Footer" class="o_footer o_colored_level o_cc ">
+                    <div id="footer" class="oe_structure oe_structure_solo">
+            <section class="s_text_block pt40 pb16" data-snippet="s_text_block" data-name="Text">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-2 pt24 pb24">
+                            <h5 class="mb-3">Useful Links</h5>
+                            <ul class="list-unstyled">
+                                <li><a href="/">Home</a></li>
+                                <li><a href="#">About us</a></li>
+                                <li><a href="#">Products</a></li>
+                                <li><a href="#">Services</a></li>
+                                <li><a href="#">Legal</a></li>
+                                <li>
+                                    <a href="/privacy">Privacy Policy</a>
+                                </li>
+                                <li><a href="/contactus">Contact us</a></li>
+                            </ul>
+                        </div>
+                        <div class="col-lg-5 pt24 pb24">
+                            <h5 class="mb-3">About us</h5>
+                            <p>We are a team of passionate people whose goal is to improve everyone's life through disruptive products. We build great products to solve your business problems.
+                            <br/><br/>Our products are designed for small to medium size companies willing to optimize their performance.</p>
+                        </div>
+                        <div id="connect" class="col-lg-4 offset-lg-1 pt24 pb24 o_colored_level">
+                            <h5 class="mb-3">Connect with us</h5>
+                            <ul class="list-unstyled">
+                                <li><i class="fa fa-comment fa-fw me-2"></i><a href="/contactus" data-bs-original-title="" title="">Contact us</a></li>
+                                <li><i class="fa fa-envelope fa-fw me-2"></i><a href="mailto:info@yourcompany.example.com">info@yourcompany.example.com</a></li>
+                                <li><i class="fa fa-phone fa-fw me-2"></i><span class="o_force_ltr"><a href="tel://+1 (650) 555-0111" data-bs-original-title="" title="">+1 (650) 555-0111</a></span></li>
+                            </ul>
+                            <div class="s_social_media text-start o_not_editable" data-snippet="s_social_media" data-name="Social Media">
+                                <h5 class="s_social_media_title d-none">Follow us</h5>
+                                <a href="/website/social/facebook" class="s_social_media_facebook" target="_blank">
+                                    <i class="fa fa-facebook rounded-circle shadow-sm o_editable_media"></i>
+                                </a>
+                                <a href="/website/social/twitter" class="s_social_media_twitter" target="_blank">
+                                    <i class="fa fa-twitter rounded-circle shadow-sm o_editable_media"></i>
+                                </a>
+                                <a href="/website/social/linkedin" class="s_social_media_linkedin" target="_blank">
+                                    <i class="fa fa-linkedin rounded-circle shadow-sm o_editable_media"></i>
+                                </a>
+                                <a href="/" class="text-800">
+                                    <i class="fa fa-home rounded-circle shadow-sm o_editable_media"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    <div class="o_footer_copyright o_colored_level o_cc" data-name="Copyright">
+                        <div class="container py-3">
+                            <div class="row">
+                                <div class="col-sm text-center text-sm-start text-muted">
+                                    <span class="o_footer_copyright_name me-2">Copyright &copy; Company name</span>
+        
+        
+    </div>
+                                <div class="col-sm text-center text-sm-end o_not_editable">
+        <div class="o_brand_promotion">
+        Powered by 
+            <a target="_blank" class="badge text-bg-light" href="http://www.odoo.com?utm_source=db&amp;utm_medium=website">
+                <img alt="Odoo" src="/web/static/img/odoo_logo_tiny.png" width="62" height="20" style="width: auto; height: 1em; vertical-align: baseline;" loading="lazy"/>
+            </a>
+        - 
+                    The #1 <a target="_blank" href="http://www.odoo.com/app/ecommerce?utm_source=db&amp;utm_medium=website">Open Source eCommerce</a>
+                
+        </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </footer>
+            </div>
+        
+        </body>
+</html>
